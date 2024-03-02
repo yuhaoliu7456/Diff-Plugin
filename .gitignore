@@ -1,0 +1,14 @@
+# .gitignore
+__pycache__/
+*.pyc
+*/*/__pycache__/
+*/*.pyc
+cache/*
+temp_results/*
+results/*
+.DS_Store
+*/.DS_Store
+*/.ipynb_checkpoints
+*/.vscode
+*/.idea
+*/.pytest_cache

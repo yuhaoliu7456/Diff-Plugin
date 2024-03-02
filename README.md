@@ -28,7 +28,7 @@
 Diff-Plugin introduces a novel framework that empowers a single pre-trained diffusion model to produce high-fidelity results across a variety of low-level tasks. It achieves this through lightweight plugins, without compromising the generative capabilities of the original pre-trained model. Its plugin selector also allows users to perform low-level visual tasks (either single or multiple) by selecting the appropriate task plugin via language instructions.
 
 <!-- #insert a figure -->
-![teaser](imgs/teaser.png)
+![teaser](assets/teaser.png)
 
 ## News !!
 
@@ -37,8 +37,8 @@ Diff-Plugin introduces a novel framework that empowers a single pre-trained diff
 ## To-Do List
 
 <!-- - [ ] Gradio demo for easy interaction. -->
-- [] Implement evaluation metrics for assessment.
-- [] Provide training scripts for the plugin selector.
+- [ ] Implement evaluation metrics for assessment.
+- [ ] Provide training scripts for the plugin selector.
 
 ## Environment Setup
 
@@ -68,7 +68,7 @@ Single GPU with 24G memory is generally enough for an image with resolution of 1
 python demo.py 
 ```
 
-<img src="imgs/gradio.png" width="600" height="600">
+<img src="assets/gradio.png" width="600" height="600">
 
 
 #### Note that in the advanced options, you can adjust
