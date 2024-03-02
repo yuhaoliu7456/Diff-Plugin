@@ -1,14 +1,14 @@
 <br />
 <p align="center">
-  <h1 align="center">Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks</h1>
+  <h1 align="center"><a href="https://yuhaoliu7456.github.io/projects/Diff-Plugin/index.html" target="_blank"> Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks</a></h1>
   <p align="center">
-    CVPR, 2024    
+    <!-- CVPR, 2024     -->
     <a href='#'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;
     <a href='https://youtu.be/VMQYt5rToZU'>
       <img src='https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg' alt='' width="70" height="20">
-    </a>
+    </a>&nbsp;&nbsp;&nbsp;
     <br>
     <a href="https://yuhaoliu7456.github.io"><strong>Yuhao Liu</strong></a>
     ·
@@ -23,6 +23,8 @@
   </p>
 
 <br />
+
+Code repository for our paper "<a href="">Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks</a>" in <b>CVPR 2024</b>.
 
 
 Diff-Plugin introduces a novel framework that empowers a single pre-trained diffusion model to produce high-fidelity results across a variety of low-level tasks. It achieves this through lightweight plugins, without compromising the generative capabilities of the original pre-trained model. Its plugin selector also allows users to perform low-level visual tasks (either single or multiple) by selecting the appropriate task plugin via language instructions.
