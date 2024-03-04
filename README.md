@@ -3,7 +3,7 @@
   <h1 align="center"><a href="https://yuhaoliu7456.github.io/Diff-Plugin/" target="_blank"> Diff-Plugin: Revitalizing Details for Diffusion-based Low-level tasks</a></h1>
   <p align="center">
     <!-- CVPR, 2024     -->
-    <a href='#'>
+    <a href='https://arxiv.org/abs/2403.00644'>
       <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
     </a> &nbsp;&nbsp;&nbsp;
     <a href='https://youtu.be/VMQYt5rToZU'>
