@@ -114,6 +114,9 @@ Note that:
 - Training was conducted on four A100 GPUs with a batch size of 64
 
 
+## License
+This project is released under the [Creative Commons Attribution NonCommercial ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
+
 
 ## Citation
 
@@ -135,6 +138,9 @@ Special thanks to the following repositories for supporting our research:
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
 
 
+## Contact
+This repository is maintained by Yuhao Liu ([@Yuhao](https://github.com/yuhaoliu7456)).  
+For questions, please contact `yuhaoliu7456@outlook.com`.
 
 
 
