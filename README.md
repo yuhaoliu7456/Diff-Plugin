@@ -12,9 +12,9 @@
     <br>
     <a href="https://yuhaoliu7456.github.io"><strong>Yuhao Liu</strong></a> 
     ·
-    <a href="https://zhke.io"><strong>Zhanghan Ke</strong></a>
+    <a href="https://zhke.io"><strong>Zhanghan Ke</strong><sup>十</sup></a>
     .
-    <a href="https://scholar.google.com/citations?user=cBFup5QAAAAJ&hl=en"><strong>Fang Liu</strong></a>
+    <a href="https://scholar.google.com/citations?user=cBFup5QAAAAJ&hl=en"><strong>Fang Liu</strong><sup>十</sup></a>
     .
     <a href="http://nxzhao.com"><strong>Nanxuan Zhao</strong></a>
     ·
