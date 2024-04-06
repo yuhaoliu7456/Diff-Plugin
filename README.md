@@ -124,7 +124,7 @@ If you find Diff-Plugin useful in your research, please consider citing:
 ```bibtex
 @inproceedings{liu2024diff,
   title={Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks},
-  author={Liu, Yuhaoand Ke, Zhanghan  and Liu, Fang and Zhao, Nanxuan and Rynson W.H. Lau},
+  author={Liu, Yuhao and Ke, Zhanghan  and Liu, Fang and Zhao, Nanxuan and Rynson W.H. Lau},
   booktitle={CVPR},
   year={2024}
 }
