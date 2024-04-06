@@ -119,7 +119,7 @@ This project is released under the [Creative Commons Attribution NonCommercial S
 
 ## Citation
 
-If you find Diff-Plugin useful in your research, please consider citing:
+If you find Diff-Plugin useful in your research, please consider citing us:
 
 ```bibtex
 @inproceedings{liu2024diff,
