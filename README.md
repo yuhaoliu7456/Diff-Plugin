@@ -39,7 +39,7 @@ Diff-Plugin introduces a novel framework that empowers a single pre-trained diff
 ## To-Do List
 
 <!-- - [ ] Gradio demo for easy interaction. -->
-- [ ] Implement evaluation metrics for assessment.
+<!-- - [ ] Implement evaluation metrics for assessment. -->
 - [ ] Provide training scripts for the plugin selector.
 
 ## Environment Setup
@@ -112,6 +112,9 @@ Note that:
 - Ensure the task name matches the folder name in `data/train`
 - Training was conducted on four A100 GPUs with a batch size of 64
 
+
+# Evaluation
+Please refer to the README.md under the `metric` fodler
 
 ## License
 This project is released under the [Creative Commons Attribution NonCommercial ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license.
